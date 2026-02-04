@@ -40,7 +40,6 @@ The following are strictly forbidden on Hangukverse:
 
 We use a combination of automated and manual safeguards, including:
 
-- Automated detection systems for high-risk content
 - Human moderation and review processes
 - User reporting mechanisms
 - Account monitoring and behavioral analysis
@@ -79,7 +78,7 @@ Repeat or severe violations result in permanent bans.
 
 ## Age Protection
 
-- Hangukverse is **not intended for users under 16 years of age**
+- Hangukverse is **not intended for users under 13 years of age**
 - We do not knowingly allow minors to create accounts
 - Accounts identified as belonging to minors may be suspended or deleted
 - Any improperly collected data related to minors is removed promptly

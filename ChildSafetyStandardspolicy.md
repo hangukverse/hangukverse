@@ -122,7 +122,7 @@ Updates become effective once published.
 If you believe a child is in immediate danger or that CSAE content exists on our platform, contact us immediately:
 
 **Child Safety Contact:**  
-https://github.com/hangukverse/hangukverse/blob/b33bc32afd6e018e2ca03e917c0f6c3598d4e6bb/Privacy-Policy-Agreement
+[https://github.com/hangukverse/hangukverse/blob/b33bc32afd6e018e2ca03e917c0f6c3598d4e6bb/Privacy-Policy-Agreement](https://github.com/hangukverse/hangukverse/blob/09be2122060714a780e766dbd302d20dc9e1bb34/privacypolicy)
 
 For emergencies, please contact your local law enforcement authorities.
 
